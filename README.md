@@ -11,4 +11,5 @@ Web Scrapping | Data Wrangling | Exploratory Data Analysis | Model Building | Da
 ## Tools 
 Advanced Microsoft Excel | Microsoft PowerBi 
 ## Certifications & Badges 🏆🎖️
- WorldQuant University Data Science lab Badge - https://www.credly.com/badges/f60cbab2-9a37-47c1-b528-3ac2f020a8fd/public_url
+ WorldQuant University Data Science lab Verified Badge: https://www.credly.com/badges/f60cbab2-9a37-47c1-b528-3ac2f020a8fd/public_url
+
