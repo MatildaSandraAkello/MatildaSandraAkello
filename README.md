@@ -1,3 +1,13 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matilda Sandra Akello 
-
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matilda Sandra Akello 👩‍💻
+- 🌍 I'm based in Kampala, Uganda
+- 📧 You can Contact me at matildaakellosandra@gmail.com
+- 🧠 I'm learning Data Analysis, Data Science & MLOps
+## Background
+I'm a graduate Quantity Surveyor whose passion for problem solving and technologies sparked a curiosity that led me into a self discovery journey down the paths of data science. Seeing as i had worked with Data before during my Undergraduate studies as part of my final year project assessment, i had prior knowledge in Data Collection, Data Cleaning, Data Analysis, Data Visualization, reporting & presentation. My common habit of tracking and documenting almost everything that happens in my life and the discovery that i could leverage Machine Learning to easily find trends and draw insights from data sparked my interest in the field. 
+## Skills 📈📊
+Web Scrapping | Data Wrangling | Exploratory Data Analysis | Model Building | Data Visualization | Creating Dashboards & Reports.
+## Tech Stack 🖥️
+![](https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534) ![](https://camo.githubusercontent.com/b92df6010fa9372dafa7b14aa96fe86d6a8c9175fbc8253b3c044aaa004ecf7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e61636f6e64612d2532333434413833332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/5e8b6493343a841ed161f1862e7de688f67ba8809ad0a76a8f04af618ab2c3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465) 
+## Tools 
+Advanced Microsoft Excel | Microsoft PowerBi 
 
